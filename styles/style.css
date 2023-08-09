@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.message{
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    right: 50%;
+    bottom: 50%;
+    font-size: 100px;
+}
